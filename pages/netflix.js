@@ -38,8 +38,8 @@ const netflix = () => {
               What i learnt: Pull API's from the TMDB api, Add payment to my application through stripe(i didn't fully manage since i was using web version 9, 
               while the docs on stripe api was using web version 8 but i am still working on it) and uploading my application on firebase.
             </p>
-            <button className="px-8 py-2 mt-4 mr-8"><a target="_blank" rel="noopener noreferrer" href="https://netflix-clone-ede02.web.app/">Demo</a></button>
-            <button className="px-8 py-2 mt-4"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Rotich2000/netflix-clone">Code</a></button>
+            <button className="px-8 py-2 mt-4 mr-8"><a target="_blank" rel="noreferrer" href="https://netflix-clone-ede02.web.app/">Demo</a></button>
+            <button className="px-8 py-2 mt-4"><a target="_blank" rel="noreferrer" href="https://github.com/Rotich2000/netflix-clone">Code</a></button>
           </div>
           <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4">
             <div className="p-2">

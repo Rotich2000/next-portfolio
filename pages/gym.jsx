@@ -43,14 +43,14 @@ const gym = () => {
               view the application's demo and source code.
             </p>
             <button className="px-8 py-2 mt-4 mr-8">
-              <a target="_blank" rel="noopener noreferrer" href="https://gymbykim.netlify.app/">
+              <a target="_blank" rel="noreferrer" href="https://gymbykim.netlify.app/">
                 Demo
               </a>
             </button>
             <button className="px-8 py-2 mt-4">
               <a
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noreferrer"
                 href="https://github.com/Rotich2000/gym-landing"
               >
                 Code

@@ -43,12 +43,12 @@ const sushi = () => {
               the buttons.
             </p>
             <button className="px-8 py-2 mt-4 mr-8">
-              <a target="_blank" rel="noopener noreferrer" href="https://foodbykim.netlify.app/">
+              <a target="_blank" rel="noreferrer" href="https://foodbykim.netlify.app/">
                 Demo
               </a>
             </button>
             <button className="px-8 py-2 mt-4">
-              <a target="_blank" rel="noopener noreferrer" href="https://github.com/Rotich2000/hotel">
+              <a target="_blank" rel="noreferrer" href="https://github.com/Rotich2000/hotel">
                 Code
               </a>
             </button>

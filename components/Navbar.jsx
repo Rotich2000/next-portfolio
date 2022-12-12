@@ -145,16 +145,16 @@ const Navbar = () => {
                   </div>
                   <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                     <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dennis-rotich-3541ba207/"><FaLinkedinIn /></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/dennis-rotich-3541ba207/"><FaLinkedinIn /></a>
                     </div>
                     <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                    <a href="https://github.com/Rotich2000" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+                    <a href="https://github.com/Rotich2000" target="_blank" rel="noreferrer"><FaGithub /></a>
                     </div>
                     <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                    <a target="_blank" rel="noopener noreferrer" href="mailto:drkimutai@gmail.com?subject=subject&cc=cc@example.com"><AiOutlineMail /></a> 
+                    <a target="_blank" rel="noreferrer" href="mailto:drkimutai@gmail.com?subject=subject&cc=cc@example.com"><AiOutlineMail /></a> 
                     </div>
                     <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                    <a href="https://wa.me/+254746960449" rel="noopener noreferrer" target="_blank"><BsWhatsapp /></a>
+                    <a href="https://wa.me/+254746960449" rel="noreferrer" target="_blank"><BsWhatsapp /></a>
                     </div>
                   </div>
                 </div>
