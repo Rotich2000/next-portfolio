@@ -1,5 +1,10 @@
 import Image from 'next/image'
 import React from 'react'
+import htmlImg from "../public/assets/skills/html.png"
+// import cssImg from "../public/assets/skills/css.png"
+// import javascriptImg from "../public/assets/skills/javascript.png"
+import reactImg from "../public/assets/skills/react.png"
+import nextImg from "../public/assets/skills/nextjs.png"
 
 const Skills = () => {
   return (
@@ -12,7 +17,7 @@ const Skills = () => {
                 <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className="m-auto">
-                            <Image src="/../public/assets/skills/html.png" alt="skills" width="64" height="64" />
+                            <Image src={htmlImg} alt="skills" width="64" height="64" />
                         </div>
                         <div className='flex flex-col items-center justify-center'>
                             <h3>HTML5</h3>
@@ -42,7 +47,7 @@ const Skills = () => {
                 <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className="m-auto">
-                            <Image src="/../public/assets/skills/react.png" alt="skills" width="64" height="64" />
+                            <Image src={reactImg} alt="skills" width="64" height="64" />
                         </div>
                         <div className='flex flex-col items-center justify-center'>
                             <h3>React</h3>
@@ -52,7 +57,7 @@ const Skills = () => {
                 <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className="m-auto">
-                            <Image src="/../public/assets/skills/nextjs.png" alt="skills" width="64" height="64" />
+                            <Image src={nextImg} alt="skills" width="64" height="64" />
                         </div>
                         <div className='flex flex-col items-center justify-center'>
                             <h3>Next</h3>
