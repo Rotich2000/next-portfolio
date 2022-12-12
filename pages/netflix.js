@@ -35,7 +35,7 @@ const netflix = () => {
             <p>
               This app was built using REACT and is hosted using firebase. Users
               are able to check the movies they want and also make payments of their subscription using stripe.
-              What i learnt: Pull API's from the TMDB api, Add payment to my application through stripe(i didn't fully manage since i was using web version 9, 
+              What i learnt: Pull API&apos;s from the TMDB api, Add payment to my application through stripe(i didn&apos;t fully manage since i was using web version 9, 
               while the docs on stripe api was using web version 8 but i am still working on it) and uploading my application on firebase.
             </p>
             <button className="px-8 py-2 mt-4 mr-8"><a target="_blank" rel="noreferrer" href="https://netflix-clone-ede02.web.app/">Demo</a></button>
@@ -64,7 +64,7 @@ const netflix = () => {
               </div>
             </div>
           </div>
-        <Link href='/#projects'>
+        <Link href="/#projects">
             <p className="underline cursor-pointer text-center">Back</p>
         </Link>
         </div>
