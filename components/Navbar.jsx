@@ -9,19 +9,19 @@ import { useRouter } from "next/router";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const [shadow, setShadow] = useState(true);
-  const [navBg, setNavBg] = useState('#ecf0f3');
-  const [linkColor, setLinkColor] = useState('#1f2937');
+  const [navBg, setNavBg] = useState("#ecf0f3");
+  const [linkColor, setLinkColor] = useState("#1f2937");
   const router = useRouter();
 
   useEffect(() => {
     if (
-      router.asPath === '/property'||
-      router.asPath === '/netflix'||
-      router.asPath === '/sushi'||
-      router.asPath === '/gym'
+      router.asPath === "/property"||
+      router.asPath === "/netflix"||
+      router.asPath === "/sushi"||
+      router.asPath === "/gym"
     ) {
-      setNavBg('transparent')
-      setLinkColor('#f8f8f8')
+      setNavBg("transparent")
+      setLinkColor("#f8f8f8")
     }
     else{
       setNavBg(navBg)
@@ -42,7 +42,7 @@ const Navbar = () => {
         setShadow(!shadow)
       }
     }
-    window.addEventListener('scroll', handleShadow)
+    window.addEventListener("scroll", handleShadow)
   },[])
 
   return (
@@ -141,7 +141,7 @@ const Navbar = () => {
 
                 <div className="pt-40">
                   <div className="uppercase tracking-widest text-[#5651e5]">
-                    let's connect
+                    let&apos;s connect
                   </div>
                   <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                     <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">

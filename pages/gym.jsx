@@ -40,7 +40,7 @@ const gym = () => {
               with pure javascript, learn the difference between flex box and
               grid and where to use them, and have some fun with hover
               transitions in my application. Using the buttons below, you can
-              view the application's demo and source code.
+              view the application&apos;s demo and source code.
             </p>
             <button className="px-8 py-2 mt-4 mr-8">
               <a target="_blank" rel="noreferrer" href="https://gymbykim.netlify.app/">

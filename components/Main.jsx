@@ -12,14 +12,14 @@ const Main = () => {
             Let me assist you in making an imaginative website to a reality.
           </p>
           <h1 className="py-4 text-gray-700">
-            Hi there!, I'm <span className="text-[#5651e5]">Dennis</span>
+            Hi there!, I&apos;m <span className="text-[#5651e5]">Dennis</span>
           </h1>
           <h1 className="py-2 text-gray-700 capitalize">
             A front-end web developer
           </h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I'm a front-end web developer who focuses on creating memorable
-            digital experiences. At the moment, I'm concentrating on developing
+            I&apos;m a front-end web developer who focuses on creating memorable
+            digital experiences. At the moment, I&apos;m concentrating on developing
             responsive front-end web applications while also learning back-end
             development.
           </p>

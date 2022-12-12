@@ -21,7 +21,7 @@ const About = () => {
             Fascinated by how powerful programming can be, I was drawn to learn
             more. I began learning javascript and became even more excited about
             making websites interactive. I then began freelance work with
-            Upwork. I'm currently working on projects with React JS, Next JS,
+            Upwork. I&apos;m currently working on projects with React JS, Next JS,
             Firebase, and learning new technologies.
           </p>
           <p className="py-2 text-gray-600 underline cursor-pointer">Check out some of my latest projects</p>
