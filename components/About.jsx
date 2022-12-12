@@ -25,7 +25,7 @@ const About = () => {
             Upwork. I&apos;m currently working on projects with React JS, Next JS,
             Firebase, and learning new technologies.
           </p>
-          <p className="py-2 text-gray-600 underline cursor-pointer"> <a href="/#projects">Check out some of my latest projects</a></p>
+          <p className="py-2 text-gray-600 underline cursor-pointer"> <a href="/#projects">Check out some of my latest projects </a></p>
         </div>
         <div className="full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
             <Image src={aboutImage} alt="about" width="500" height="500" className="rounded-lg"/>
