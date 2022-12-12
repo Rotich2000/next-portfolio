@@ -38,8 +38,8 @@ const property = () => {
               be able to view property information as well as the specific
               location of the rooms intergrated with Mapbox API.
             </p>
-            <button className="px-8 py-2 mt-4 mr-8"><a target="_blank" href="https://airbnb-demo-b49k-flg9mluxe-rotich2000.vercel.app/">Demo</a></button>
-            <button className="px-8 py-2 mt-4"><a target="_blank" href="https://github.com/Rotich2000/airbnb-demo">Code</a></button>
+            <button className="px-8 py-2 mt-4 mr-8"><a target="_blank" rel="noreferrer" href="https://airbnb-demo-b49k-flg9mluxe-rotich2000.vercel.app/">Demo</a></button>
+            <button className="px-8 py-2 mt-4"><a target="_blank" rel="noreferrer" href="https://github.com/Rotich2000/airbnb-demo">Code</a></button>
           </div>
           <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4">
             <div className="p-2">
